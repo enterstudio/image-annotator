@@ -62,7 +62,7 @@
   },
   "dependencies": {
     "axios": "^0.15.3",
-    "babel-cli": "^6.23.0",
+    "babel-cli": "^6.24.0",
     "babel-polyfill": "^6.23.0",
     "babel-register": "^6.23.0",
     "bluebird": "^3.4.7",
